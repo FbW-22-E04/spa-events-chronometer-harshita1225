@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harshita1225/stopwatch/static/css/main.a9ce99dd.css",
+    "main.js": "/harshita1225/stopwatch/static/js/main.23aaaafd.js",
+    "index.html": "/harshita1225/stopwatch/index.html",
+    "main.a9ce99dd.css.map": "/harshita1225/stopwatch/static/css/main.a9ce99dd.css.map",
+    "main.23aaaafd.js.map": "/harshita1225/stopwatch/static/js/main.23aaaafd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ce99dd.css",
+    "static/js/main.23aaaafd.js"
+  ]
+}
